@@ -1,0 +1,25 @@
+{
+    "name": "solve/eventdispatcher",
+    "type": "library",
+    "description": "Database engine",
+    "keywords": ["events","dispatcher","eventdispatcher"],
+    "homepage": "http://github.com/Solve/EventDispatcher",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexandr Viniychuk",
+            "email": "alexandr.viniychuk@icloud.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "solve/inflector": "dev-master",
+        "phpunit/phpunit": "*",
+        "solve/storage": "dev-master",
+        "solve/fsservice": "dev-master"
+    },
+    "autoload": {
+        "psr-0": { "Solve\\EventDispatcher\\": "" }
+    },
+    "target-dir": "Solve/EventDispatcher"
+}
