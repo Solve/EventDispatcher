@@ -14,7 +14,7 @@ namespace Solve\EventDispatcher;
  * Class EventPriority
  * @package Solve\EventDispatcher
  *
- * Class EventPriority is used to ...
+ * Class EventPriority is a constant class for event priorities
  *
  * @version 1.0
  * @author Alexandr Viniychuk <alexandr.viniychuk@icloud.com>

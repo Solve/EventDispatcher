@@ -15,7 +15,7 @@ namespace Solve\EventDispatcher;
  *
  * @package Solve\EventDispatcher
  *
- * Class EventState is used to ...
+ * Class EventState is a constant class for event states
  *
  * @version 1.0
  * @author Alexandr Viniychuk <alexandr.viniychuk@icloud.com>

@@ -1,7 +1,7 @@
 {
     "name": "solve/eventdispatcher",
     "type": "library",
-    "description": "Database engine",
+    "description": "Event dispatcher",
     "keywords": ["events","dispatcher","eventdispatcher"],
     "homepage": "http://github.com/Solve/EventDispatcher",
     "license": "MIT",
@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=5.3.0",
-        "solve/storage": "1.0.*"
+        "solve/storage": ">=1.0.1"
     },
     "autoload": {
         "psr-0": { "Solve\\EventDispatcher\\": "" }
